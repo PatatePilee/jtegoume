@@ -1,8 +1,1 @@
-#!/bin/bash
-# appel du script : ./bonjour nom prenom
-if [ $# = 2 ]
- then
-echo "Bonjour $2 $1 et bonne journée !"
- else
-echo "Syntaxe : $0 nom prenom"
-fi 
+
